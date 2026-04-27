@@ -1,0 +1,1 @@
+This repository contains the main data used in training a calibration model for copper concentrations in aquous solutions based on neural net fitting app on matlab as well as the resulting model obtained from it
